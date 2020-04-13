@@ -1,0 +1,2 @@
+.idea
+code.3.txt
